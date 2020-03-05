@@ -1,4 +1,4 @@
-# album_template
+# album_template 一个相册模板项目（带后台）
 
 ### 需要提前在数据库建好template_album数据库，排序规则为utf8_genaral_ci
 
